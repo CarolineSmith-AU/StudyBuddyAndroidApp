@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudyBuddy</string>
+    <string name="shared_element_1">shared_element_1</string>
+    <string name="email_or_username_edit_text">Email Or Username</string>
+    <string name="password_edit_text">Password</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up_text_view">Don\'t have an account? Sign Up!</string>
+
+</resources>
